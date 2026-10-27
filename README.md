@@ -35,3 +35,16 @@ The analysis addresses this question through two complementary perspectives:
 ## **Executive Summary**
 **NO NUMMARY YET**
 
+## **Dataset Description**
+The dataset contains approximately 10,000 sales orders from a company serving both B2B and B2C customers over a 12-month period in 2025. It consists of 6 columns covering order identifiers, customer identifiers, order dates, order values, order statuses, and customer segments.
+
+The dataset supports the analysis of Customer Revenue Concentration and Purchasing Regularity, helping assess the company's reliance on a limited number of customers and identify high-revenue customers whose purchasing patterns may warrant further commercial investigation and retention prioritization.
+
+| Column | Description |
+| ------ | ----------- |
+| order_id | Unique identifier for each order. |
+| customer_id | Unique identifier for the customer placing the order. |
+| order_date | Date on which the order was placed. |
+| order_value | Monetary value of the order, expressed in Egyptian pounds (EGP). |
+| order_status | Order status: Completed or Cancelled. |
+| customer_segment | Customer classification: B2B or B2C. |
