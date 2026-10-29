@@ -48,3 +48,10 @@ The dataset supports the analysis of Customer Revenue Concentration and Purchasi
 | order_value | Monetary value of the order, expressed in Egyptian pounds (EGP). |
 | order_status | Order status: Completed or Cancelled. |
 | customer_segment | Customer classification: B2B or B2C. |
+
+## **EDA & Baseline KPIs**
+The initial exploratory analysis established a baseline view of the company's sales activity and customer base for 2025. The dataset contains **9,799 orders**, of which **9,312 were completed**, generating total revenue of **EGP 35.28 million**. The overall cancellation rate was **4.97%**.
+
+The customer base includes **949 distinct customers**, with **946 active customers** who placed at least one completed order during the analysis period. The average order value was **EGP 3,788.97**, providing an initial reference point for evaluating sales performance.
+
+These baseline KPIs establish the starting point for the next stage of analysis. Further exploration will examine relevant data distributions before focusing on customer-level revenue contributions, cumulative revenue concentration, and purchasing regularity.
