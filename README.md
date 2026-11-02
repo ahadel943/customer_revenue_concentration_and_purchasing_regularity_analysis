@@ -55,3 +55,7 @@ The initial exploratory analysis established a baseline view of the company's sa
 The customer base includes **949 distinct customers**, with **946 active customers** who placed at least one completed order during the analysis period. The average order value was **EGP 3,788.97**, providing an initial reference point for evaluating sales performance.
 
 These baseline KPIs establish the starting point for the next stage of analysis. Further exploration will examine relevant data distributions before focusing on customer-level revenue contributions, cumulative revenue concentration, and purchasing regularity.
+
+### **B2B Generates 75.77% of Total Revenue ($26.73M)**
+![1](./charts/1.png)
+- **B2B** customers generate the majority of total revenue, contributing **75.77% ($26.73M)**, while **B2C** customers account for the remaining **24.23% ($8.55M)**. This highlights the company's strong reliance on its B2B customer segment for revenue generation.
