@@ -67,3 +67,7 @@ These baseline KPIs establish the starting point for the next stage of analysis.
 ### **Monthly Completed Revenue Remained Highly Stable Throughout 2025**
 ![3](./charts/3.png)
 - **B2B** revenue consistently exceeded **B2C** revenue across all 12 months, with monthly **B2B** contributions ranging from **$2.06M to $2.53M**. Both segments maintained relatively stable revenue patterns throughout the year, with **B2B** showing stronger monthly contributions and more noticeable peaks in **March, April, and September**.
+
+### **B2C Counts for 62.42% of Total Completed Order Volume**
+![4](./charts/4.png)
+- **B2C** customers account for the majority of completed orders, representing **62.42% (5,813 orders)**, compared to **37.58% (3,499 orders)** for B2B. Despite generating a smaller share of total orders, B2B contributes a substantially higher share of revenue, reflecting its much higher average order value.
