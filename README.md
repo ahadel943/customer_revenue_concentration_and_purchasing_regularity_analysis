@@ -62,4 +62,8 @@ These baseline KPIs establish the starting point for the next stage of analysis.
 
 ### **B2B Average Order value ($7,640) is 5.2x Higher Than B2C**
 ![2](./charts/2.png)
-- **B2B** customers have a significantly higher average order value of **$7,640.04**, compared to **$1,470.90** for **B2C** customers. This indicates that B2B orders contribute substantially more revenue per transaction, despite representing a smaller customer segment.
+- **B2B** customers have a significantly higher average order value of **$7,640.04**, compared to **$1,470.90** for **B2C** customers. This indicates that **B2B** orders contribute substantially more revenue per transaction, despite representing a smaller customer segment.
+
+### **Monthly Completed Revenue Remained Highly Stable Throughout 2025**
+![3](./charts/3.png)
+- **B2B** revenue consistently exceeded **B2C** revenue across all 12 months, with monthly **B2B** contributions ranging from **$2.06M to $2.53M**. Both segments maintained relatively stable revenue patterns throughout the year, with **B2B** showing stronger monthly contributions and more noticeable peaks in **March, April, and September**.
