@@ -59,3 +59,7 @@ These baseline KPIs establish the starting point for the next stage of analysis.
 ### **B2B Generates 75.77% of Total Revenue ($26.73M)**
 ![1](./charts/1.png)
 - **B2B** customers generate the majority of total revenue, contributing **75.77% ($26.73M)**, while **B2C** customers account for the remaining **24.23% ($8.55M)**. This highlights the company's strong reliance on its B2B customer segment for revenue generation.
+
+### **B2B Average Order value ($7,640) is 5.2x Higher Than B2C**
+![2](./charts/2.png)
+- **B2B** customers have a significantly higher average order value of **$7,640.04**, compared to **$1,470.90** for **B2C** customers. This indicates that B2B orders contribute substantially more revenue per transaction, despite representing a smaller customer segment.
