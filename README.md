@@ -71,3 +71,8 @@ These baseline KPIs establish the starting point for the next stage of analysis.
 ### **B2C Counts for 62.42% of Total Completed Order Volume**
 ![4](./charts/4.png)
 - **B2C** customers account for the majority of completed orders, representing **62.42% (5,813 orders)**, compared to **37.58% (3,499 orders)** for B2B. Despite generating a smaller share of total orders, B2B contributes a substantially higher share of revenue, reflecting its much higher average order value.
+
+## **Analysis**
+
+### Analytical Approach & Scope
+To answer the business question, the analysis focuses on customer-level revenue contributions and purchasing activity rather than individual transactions. Customer-level analysis was selected to identify how revenue is distributed across the customer base and whether high-revenue customers maintain purchasing activity throughout the year. The analytical population consists of 946 active customers who placed at least one completed order during 2025, with all customer-level metrics calculated using completed orders only. Each customer represents one observation in the analysis, with total revenue, completed order count, and active months used as the primary analytical measures.
