@@ -76,3 +76,15 @@ These baseline KPIs establish the starting point for the next stage of analysis.
 
 ### Analytical Approach & Scope
 To answer the business question, the analysis focuses on customer-level revenue contributions and purchasing activity rather than individual transactions. Customer-level analysis was selected to identify how revenue is distributed across the customer base and whether high-revenue customers maintain purchasing activity throughout the year. The analytical population consists of 946 active customers who placed at least one completed order during 2025, with all customer-level metrics calculated using completed orders only. Each customer represents one observation in the analysis, with total revenue, completed order count, and active months used as the primary analytical measures.
+
+### **Revenue Contribution Among Top Customers**
+![5](./charts/5.png)
+- Revenue contribution is significantly concentrated among the company's highest-value customers. **The top 5 customers account for 5.90% of total revenue**, while the **top 10 contribute 10.54%**. More notably, the **top 10% of active customers (95 customers) generate 52.66% of total revenue**. This highlights a substantial imbalance in revenue contributions across the customer base, with a relatively small group of customers accounting for more than half of the company's revenue.
+
+### **Customer Concentration Thresholds**
+![6](./charts/6.png)
+- A relatively small proportion of the active customer base accounts for the majority of total revenue. Only **87 customers (9.20% of active customers)** are needed to generate **50.08% of total revenue**, while **261 customers (27.59%)** account for **80.03%**. This indicates that the company's revenue is heavily dependent on a limited segment of its customer base, making the purchasing behavior and retention of these high-value customers important areas for further investigation.
+
+### **Revenue distribution by Customer Deciles**
+![7](./charts/7.png)
+- Revenue distribution across customer deciles reveals a sharp decline in revenue contribution from the highest-value segment to the lowest. The top **10% of customers** generate **52.66% of total revenue**, exceeding the combined contribution of the remaining 90% (47.34%). **The second decile contributes another 20.08%**, bringing the cumulative contribution of **the top 20% to 72.74%**. Revenue contribution continues to decline across subsequent deciles, with **the bottom 10% accounting for only 0.44% of total revenue**. This highlights the substantial gap in revenue contribution between the highest-value customers and the rest of the customer base.
