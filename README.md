@@ -88,3 +88,11 @@ To answer the business question, the analysis focuses on customer-level revenue 
 ### **Revenue distribution by Customer Deciles**
 ![7](./charts/7.png)
 - Revenue distribution across customer deciles reveals a sharp decline in revenue contribution from the highest-value segment to the lowest. The top **10% of customers** generate **52.66% of total revenue**, exceeding the combined contribution of the remaining 90% (47.34%). **The second decile contributes another 20.08%**, bringing the cumulative contribution of **the top 20% to 72.74%**. Revenue contribution continues to decline across subsequent deciles, with **the bottom 10% accounting for only 0.44% of total revenue**. This highlights the substantial gap in revenue contribution between the highest-value customers and the rest of the customer base.
+
+### **Purchasing Activity Among High-Value Customers**
+![8](./charts/8.png)
+- High-value customers generally demonstrate sustained purchasing activity throughout the year. **The top 5 customers average 12 active months** and **55 completed orders**, while **the top 10 average 11.7 active months and 49 completed orders**. For **the top 10% of customers (95 customers), the averages decrease to 9.8 active months and 25 completed orders**. These findings suggest that the highest-revenue customers tend to maintain more frequent purchasing activity across the year. However, group averages may conceal individual differences and do not necessarily indicate consistent intervals between purchases.
+
+### **Customer Revenue vs. Purchasing Activity**
+![9](./charts/9.png)
+- **The scatter plot reveals that most customers are concentrated in the low-revenue range, with many maintaining purchasing activity across a relatively high number of months. A smaller group of customers combines low revenue with activity in fewer months, while only a limited number of customers generate significantly higher revenue, generally with activity spread across more months. This suggests that higher-value customers tend to demonstrate broader purchasing activity throughout the year, although the distribution does not establish a direct or causal relationship between revenue and purchasing regularity.**
