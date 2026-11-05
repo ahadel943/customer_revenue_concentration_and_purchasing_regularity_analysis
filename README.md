@@ -33,7 +33,13 @@ The analysis addresses this question through two complementary perspectives:
 - **Purchasing Regularity:** Do major revenue contributors purchase consistently throughout the year, or is their contribution concentrated in a limited number of months?
 
 ## **Executive Summary**
-**NO NUMMARY YET**
+**This analysis examines whether the company's revenue concentration among a limited number of customers represents a potential commercial risk, and how purchasing activity can help identify customers who may require greater retention attention.**
+
+**The analysis covers 9,312 completed orders from 946 active customers during 2025, with a total completed revenue of $35.28M. Customer-level revenue contributions and purchasing activity were examined to understand the distribution of revenue and the purchasing patterns of high-value customers.**
+
+**The findings reveal a significant concentration of revenue, with the top 10% of active customers (95 customers) generating 52.66% of total revenue, while only 261 customers (27.59% of the active customer base) account for 80.03%. Further analysis shows that the highest-revenue customers generally maintain purchasing activity across more months and place more completed orders throughout the year. The customer-level distribution also highlights a substantial gap between the highest-value segment and the remaining customer base.**
+
+**Overall, the findings indicate a considerable reliance on a relatively small group of high-value customers. However, sustained purchasing activity among these customers suggests that revenue concentration alone should not be interpreted as evidence of immediate retention risk. The analysis therefore recommends prioritizing high-value customer retention, monitoring changes in purchasing activity, investigating customers with high revenue but limited purchasing activity, and developing broader customer segmentation strategies to support a more balanced revenue base.**
 
 ## **Dataset Description**
 The dataset contains approximately 10,000 sales orders from a company serving both B2B and B2C customers over a 12-month period in 2025. It consists of 6 columns covering order identifiers, customer identifiers, order dates, order values, order statuses, and customer segments.
@@ -96,3 +102,22 @@ To answer the business question, the analysis focuses on customer-level revenue 
 ### **Customer Revenue vs. Purchasing Activity**
 ![9](./charts/9.png)
 - **The scatter plot reveals that most customers are concentrated in the low-revenue range, with many maintaining purchasing activity across a relatively high number of months. A smaller group of customers combines low revenue with activity in fewer months, while only a limited number of customers generate significantly higher revenue, generally with activity spread across more months. This suggests that higher-value customers tend to demonstrate broader purchasing activity throughout the year, although the distribution does not establish a direct or causal relationship between revenue and purchasing regularity.**
+
+## **Conclusion**
+**The analysis reveals a significant concentration of revenue among a relatively small segment of the customer base, with the top 10% of active customers generating 52.66% of total revenue, while only 27.59% of customers account for 80.03%. Purchasing activity analysis further shows that higher-revenue customers generally maintain activity across more months and place more completed orders throughout the year.**
+
+**These findings indicate that the company relies heavily on a limited group of high-value customers, making their continued engagement commercially important. However, revenue concentration alone does not necessarily represent a business risk, particularly when high-value customers demonstrate sustained purchasing activity. The key priority is to monitor these customers individually, identify high-revenue customers with relatively limited purchasing activity, and investigate their purchasing patterns to determine whether targeted retention actions are needed.**
+
+## **Recommendations**
+- **Prioritize High-Value Customer Retention**: Develop targeted relationship management and retention strategies for the top 10% of customers, who generate 52.66% of total revenue, to support continued engagement and reduce excessive dependence on a limited customer group.
+- **Monitor High-Value Customer Purchasing Activity**: Track monthly purchasing activity and completed order frequency among high-revenue customers. Investigate significant declines in purchasing activity to identify potential retention concerns before they affect revenue.
+- **Identify High-Revenue Customers with Limited Purchasing Activity**: Regularly review customers who generate substantial revenue but purchase in relatively few months. Investigate whether their purchasing patterns are driven by seasonality, large occasional orders, or changes in customer engagement before taking retention actions.
+- **Develop Customer Segmentation Strategies**: Use revenue contribution and purchasing activity together to segment customers into meaningful groups, allowing the company to tailor engagement and retention efforts according to each group's commercial value and purchasing behavior.
+- **Reduce Revenue Dependency Over Time**: Explore opportunities to increase revenue contributions from customers outside the top 10%, particularly those with sustained purchasing activity but relatively low revenue contributions, to support a broader and more balanced customer revenue base.
+
+## **Tools Used**
+- **`Microsoft Excel`**: Data analysis, PivotTables, and analytical calculations.
+- **`Power Query`**:  Data preparation and transformation.
+- **`DAX (Data Analysis Expressions)`**: Creating measures for SLA performance metrics.
+- **`Microsoft PowerPoint`**: Chart design and visual presentation of analytical findings.
+- **`Git / GitHub`**: Project version control and repository management
